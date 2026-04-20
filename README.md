@@ -26,7 +26,7 @@ HTML/CSS
 
 Como rodar o projeto
 1. Clonar o inventário
-1. git clone https://github.com/seu-usuario/chat-bot-challenge.git
+1. git clone https:
 
 2. Instale as dependências
 npm install
